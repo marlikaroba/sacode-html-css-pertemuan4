@@ -1,0 +1,30 @@
+/* Universal Selector */
+
+/* Element Selector */
+
+body {
+    padding: 30px;
+}
+
+nav {
+    padding: 20px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background-color: black;
+}
+
+nav a {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: coral;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* ID Selector */
+
+/* Class Selector */
